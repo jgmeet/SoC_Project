@@ -25,4 +25,15 @@ During Week 1, we will learn about the basics of HTML, CSS and Tailwind. Spend a
 - [Learn Tailwind CSS](https://www.youtube.com/watch?v=ft30zcMlFao)
 - [Tailwind CSS Documentation](https://tailwindcss.com/docs/utility-first)
 
+## Assignment 1
+In this assignment, you have to build the UI of signin/signup page of Instagram Web Application. The design should be responsive.
+### Important Links
+- [UI of signin/signup page of Instagram](https://docs.google.com/document/d/1lvrIQUFSKJBUXN3yjsRwVtzrwBltPqL-Lb-7gfhz7rc/edit?usp=sharing)
 
+
+## Week 2
+### Aim
+In Week2, we will learn the basics of javascript. Be clear with the basic concepts and practise them until you don't get clarity.
+### Important Links
+- [Learn JavaScript](https://www.youtube.com/watch?v=PkZNo7MFNFg)
+- [Asynchronous JavaScript Course](https://www.youtube.com/watch?v=ZYb_ZU8LNxs)
