@@ -37,3 +37,16 @@ In Week2, we will learn the basics of javascript. Be clear with the basic concep
 ### Important Links
 - [Learn JavaScript](https://www.youtube.com/watch?v=PkZNo7MFNFg)
 - [Asynchronous JavaScript Course](https://www.youtube.com/watch?v=ZYb_ZU8LNxs)
+
+### Assignment 2
+Will update soon.
+
+## Week 3
+### Aim
+In Week3, we will see what is Node.js and then will delve into Express JS. We will also see version control and Git, GitHub.
+### Important Links
+- [Node.js](https://medium.com/@asiandigitalhub/what-is-node-js-and-how-it-work-490f5ecba665)
+- [Express JS](https://www.youtube.com/watch?v=ZYb_ZU8LNxs)
+- [Git and GitHub](https://www.youtube.com/watch?v=RDxQEzXN8AU)
+
+
