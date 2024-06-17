@@ -46,7 +46,7 @@ Will update soon.
 In Week3, we will see what is Node.js and then will delve into Express JS. We will also see version control and Git, GitHub.
 ### Important Links
 - [Node.js](https://medium.com/@asiandigitalhub/what-is-node-js-and-how-it-work-490f5ecba665)
-- [Express JS](https://www.youtube.com/watch?v=ZYb_ZU8LNxs)
+- [Express JS](https://www.youtube.com/playlist?list=PL_cUvD4qzbkwjmjy-KjbieZ8J9cGwxZpC)
 - [Git and GitHub](https://www.youtube.com/watch?v=RDxQEzXN8AU)
 
 
