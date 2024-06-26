@@ -39,7 +39,8 @@ In Week2, we will learn the basics of javascript. Be clear with the basic concep
 - [Asynchronous JavaScript Course](https://www.youtube.com/watch?v=ZYb_ZU8LNxs)
 
 ### Assignment 2
-Will update soon.
+Download the 'Assignment 2' folder in your local machine and follow the instructions provided.
+
 
 ## Week 3
 ### Aim
@@ -49,4 +50,12 @@ In Week3, we will see what is Node.js and then will delve into Express JS. We wi
 - [Express JS](https://www.youtube.com/playlist?list=PL_cUvD4qzbkwjmjy-KjbieZ8J9cGwxZpC)
 - [Git and GitHub](https://www.youtube.com/watch?v=RDxQEzXN8AU)
 
+### Assignment 3
+Will update soon.
 
+
+## Week 4
+### Aim
+Till now, we are not storing our data in a databse. In Week4, we will see what are databases and will use one of the popular databse 'MongoDB'. We will also need to take care of authentication at this point and will learn how to do it.
+### Important Links
+- [MongoDB crud operations](https://www.mongodb.com/docs/manual/crud/)
