@@ -10,6 +10,6 @@ Feel free to start doing these in any order you like.
 
 ## Testing
 1. Make sure you are in the Assignment 2 directory in your terminal
-2. Let's say you have solved anagram.js and to test it, run  ```npx jest ./tests/anagram.js```
+2. Let's say you have solved anagram.js and to test it, run  ```npx jest ./tests/anagram.test.js```
 3. To test for all the problems of this week run ```npx jest ./tests/```
 
