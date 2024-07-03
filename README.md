@@ -56,6 +56,10 @@ Will update soon.
 
 ## Week 4
 ### Aim
-Till now, we are not storing our data in a databse. In Week4, we will see what are databases and will use one of the popular databse 'MongoDB'. We will also need to take care of authentication at this point and will learn how to do it.
+Till now, we are not storing our data in a databse. In Week4, we will see what are databases and will use one of the popular databse 'MongoDB'. We will also need to take care of authentication and authorisation at this point and will learn how to do it.
 ### Important Links
 - [MongoDB crud operations](https://www.mongodb.com/docs/manual/crud/)
+- [Tutorials](https://www.youtube.com/watch?v=cJAyEOZQUQY&list=PLinedj3B30sDby4Al-i13hQJGQoRQDfPo&index=12)
+- [A Comprehensive Guide to Data Modeling in MongoDB](https://medium.com/@skhans/a-comprehensive-guide-to-data-modeling-in-mongodb-b63b2df9d9dd)
+
+
