@@ -64,5 +64,5 @@ Till now, we are not storing our data in a databse. In Week4, we will see what a
 ### Aim
 Now, we will learn and use React JS to build frontend of the applications. We will also learn about Redux.
 ### Important Links
-- [React JS]([https://www.mongodb.com/docs/manual/crud/](https://youtube.com/playlist?list=PLu71SKxNbfoDqgPchmvIsL4hTnJIrtige&feature=shared))
+- [React JS](https://youtube.com/playlist?list=PLu71SKxNbfoDqgPchmvIsL4hTnJIrtige&feature=shared)
 
