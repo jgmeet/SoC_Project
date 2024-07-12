@@ -50,9 +50,6 @@ In Week3, we will see what is Node.js and then will delve into Express JS. We wi
 - [Express JS](https://www.youtube.com/playlist?list=PL_cUvD4qzbkwjmjy-KjbieZ8J9cGwxZpC)
 - [Git and GitHub](https://www.youtube.com/watch?v=RDxQEzXN8AU)
 
-### Assignment 3
-Will update soon.
-
 
 ## Week 4
 ### Aim
@@ -62,4 +59,10 @@ Till now, we are not storing our data in a databse. In Week4, we will see what a
 - [Tutorials](https://www.youtube.com/watch?v=cJAyEOZQUQY&list=PLinedj3B30sDby4Al-i13hQJGQoRQDfPo&index=12)
 - [A Comprehensive Guide to Data Modeling in MongoDB](https://medium.com/@skhans/a-comprehensive-guide-to-data-modeling-in-mongodb-b63b2df9d9dd)
 
+
+## Week 5-6
+### Aim
+Now, we will learn and use React JS to build frontend of the applications. We will also learn about Redux.
+### Important Links
+- [React JS]([https://www.mongodb.com/docs/manual/crud/](https://youtube.com/playlist?list=PLu71SKxNbfoDqgPchmvIsL4hTnJIrtige&feature=shared))
 
